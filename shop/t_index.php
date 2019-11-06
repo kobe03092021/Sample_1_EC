@@ -2,7 +2,7 @@
 <html>
 <head>
 	<meta charset="utf-8">
-	<title>Ramen Shop</title>
+	<title>Sample EC</title>
 	<link rel="stylesheet" href="shop.css">
 </head>
 <body>
